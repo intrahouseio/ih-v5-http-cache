@@ -1,0 +1,9 @@
+{
+  "name": "httpcache",
+  "description": "Http Cache Plugin",
+  "module": "index.js",
+  "single": 1,
+  "restartOnChannelsChange": 1,
+  "params": [],
+  "actions": [{}]
+}
